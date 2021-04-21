@@ -1,0 +1,27 @@
+PODS:
+  - ReactiveCocoa (11.2.0):
+    - ReactiveSwift (~> 6.6)
+  - ReactiveSwift (6.6.0)
+  - ReactiveTheme (0.1.0):
+    - ReactiveCocoa
+
+DEPENDENCIES:
+  - ReactiveTheme (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ReactiveCocoa
+    - ReactiveSwift
+
+EXTERNAL SOURCES:
+  ReactiveTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: 0d883ea174c0b452992b3f2374d190135fe7a68b
+  ReactiveSwift: be9407e2aaf8a11e53a5229255693cffd9a63ccf
+  ReactiveTheme: f89752c19b9aed50085023d34bbee2bf7c45cbca
+
+PODFILE CHECKSUM: 1baf7d07b8763e48c98fa369ee93633fc9b4e0bc
+
+COCOAPODS: 1.10.1

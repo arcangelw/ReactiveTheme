@@ -1,0 +1,6 @@
+framework module ReactiveTheme {
+  umbrella header "ReactiveTheme-umbrella.h"
+
+  export *
+  module * { export * }
+}
