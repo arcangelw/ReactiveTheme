@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ReactiveTheme_Example' do
+  pod 'ReactiveTheme', :path => '../'
+
+  target 'ReactiveTheme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
